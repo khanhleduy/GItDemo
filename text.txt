@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 khanh dep trai khong ai sanh bang
 
+=======
+khanh xau trai khong ai xau bang
+>>>>>>> b9fa5e131d7e73aac3a3bd90bd6c1bda971159cd
